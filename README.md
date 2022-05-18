@@ -3,8 +3,8 @@
 
 - 🌱 Estudante de desenvolvimento FullStack
 
-    <img height="180m" src="https://github-readme-stats.vercel.app/api?username=IngridAltafini&show_icons=true&theme=radical"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAltafini&layout_compact=true&theme=radical"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IngridAltafini&show_icons=true&theme=radical"/>
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAltafini&layout_compact=true&theme=radical"/>
    
    <div>
     <img reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
