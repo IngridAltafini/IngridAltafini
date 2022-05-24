@@ -1,4 +1,4 @@
-## 💟 Olá! Eu sou a Ingrid Altafini
+## 💙 Olá! Eu sou a Ingrid Altafini
 
 - 🌱 Estudante de desenvolvimento FullStack
 
@@ -24,7 +24,7 @@
     </div>
 <br>
 
-## 💟 Biografia
+## 💙 Biografia
 
 Me chamo Ingrid, tenho 17 anos e entrei para a área de TI este ano (2022).
 
@@ -33,11 +33,11 @@ Consegui essa oportunidade por meio do projeto Vem Ser Dev, quando as pessoas en
 Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui em diante, realizando meus objetivos e aprendendo muito mais!
 </br>
 
-## 💟 Formação
+## 💙 Formação
 
 - Estudando desenvolvimento FullStack - Vem Ser Dev
 </br>
 
-## 💟 Certificados
+## 💙 Certificados
 
 - ✅ "https://www.dio.me/certificate/C129AFD6/share"
