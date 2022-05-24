@@ -4,7 +4,7 @@
 
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IngridAltafini&show_icons=true&theme=radical"/>
     
-    <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAltafini&layout=compact&langs_count=7&theme=radical"/>
+    <img height="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAltafini&layout=compact&langs_count=7&theme=radical"/>
    
    <div>
     <img alt="ingrid-JS" reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
