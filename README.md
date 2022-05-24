@@ -2,16 +2,17 @@
 
 - 🌱 Estudante de desenvolvimento FullStack
 
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IngridAltafini&show_icons=true&theme=radical"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IngridAltafini&show_icons=true&theme=radical"/>
     
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAltafini&layout=compact&langs_count=7&theme=radical"/>
+    <img height="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAltafini&layout=compact&langs_count=7&theme=radical"/>
    
    <div>
     <img alt="ingrid-JS" reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-    <img align="center" alt="ingrid-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img alt="ingrid-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
     <img alt="ingrid-Postgres" reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+    
     </div>
     <img align="right" src="https://i.picasion.com/pic92/0c6b8edbbbadeac0c8cd8f2990b5186f.gif">
 
