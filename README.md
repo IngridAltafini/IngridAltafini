@@ -1,6 +1,6 @@
-## 💖 Olá! Eu sou a Ingrid Altafini
+## 💖 Ingrid Altafini
 
-- 🌱 Estudante de desenvolvimento FullStack
+- ## Estudante de desenvolvimento FullStack
 
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IngridAltafini&show_icons=true&theme=radical"/>
     
