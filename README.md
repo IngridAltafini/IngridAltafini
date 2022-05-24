@@ -36,7 +36,6 @@ Desejo muito me sair bem no decorrer do curso e aprender cada vez mais!
 ## Formação
 
 - Estudando desenvolvimento FullStack - Vem Ser Dev
-
 </br>
 
 ## Certificados
