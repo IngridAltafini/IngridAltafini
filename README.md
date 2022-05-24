@@ -26,11 +26,11 @@
 
 ## Biografia
 
-Me chamo Ingrid, tenho 17 anos e entrei para a área de TI esse ano (2022).
+Chamo-me Ingrid, tenho 17 anos e entrei para a área de TI este ano (2022).
 
-Consegui essa oportunidade por meio do projeto Vem Ser Dev, pois eles passaram em escolas da minha cidade apresentando e procurando pessoas interessadas nessa área.
+Consegui essa oportunidade por meio do projeto Vem Ser Dev, quando as pessoas envolvidas realizaram apresentações em escolas da minha cidade, dizendo ser um curso sobre TI e Inglês totalmente gratuito, que existiam muitas vagas para essa profissão, que era uma oportunidade única e que não podíamos deixar passar. Eu e mais pessoas da minha escola se inscreveram e em cerca de uma semana soube que estaria participando do projeto.
 
-Desejo muito me sair bem no decorrer do curso e aprender cada vez mais!
+Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui em diante, realizando meus objetivos e aprendendo muito mais!
 </br>
 
 ## Formação
