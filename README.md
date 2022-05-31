@@ -13,8 +13,9 @@
 
     <img alt="ingrid-Postgres" reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
     
+    <img align="right" src="https://i.picasion.com/pic92/6ffa2bb320b66af716173d97e3ea0f7b.gif">
+    
     </div>
-    <img align="right" src="https://i.picasion.com/pic92/0c6b8edbbbadeac0c8cd8f2990b5186f.gif">
 
   ##
 
