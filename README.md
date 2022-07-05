@@ -25,6 +25,8 @@
     </div>
 <br>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 ## 💖 Biografia
 
 Me chamo Ingrid, tenho 17 anos e entrei para a área de TI este ano (2022).
