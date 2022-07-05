@@ -13,16 +13,21 @@
 
     <img alt="ingrid-Postgres" reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
     
-    <img align="right" src="https://i.picasion.com/pic92/6ffa2bb320b66af716173d97e3ea0f7b.gif">
+    <img alt="Ingrid-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    
+    <img  alt="Ingrid-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
     </div>
 
   ##
 
     <div>
+    
      <a href = "mailto:ingridaltafini225@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/ingrid-isabela-altafini/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
     </div>
+    
 <br>
 
 ![snake gif](https://github.com/IngridAltafini/IngridAltafini/blob/output/github-contribution-grid-snake.svg)
