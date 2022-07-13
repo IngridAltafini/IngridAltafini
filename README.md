@@ -29,8 +29,6 @@
     
 <br>
 
-![snake gif](https://github.com/IngridAltafini/IngridAltafini/blob/output/github-contribution-grid-snake.svg)
-
 ## 💖 Biografia
 
 Me chamo Ingrid, tenho 17 anos e entrei para a área de TI este ano (2022).
