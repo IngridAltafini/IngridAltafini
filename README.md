@@ -11,8 +11,8 @@
 
 <div align="center"> 
   <a href="https://beacons.ai/IngridAltafini">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IngridAltafini&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAltafini&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IngridAltafini&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAltafini&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
 </br>
@@ -60,6 +60,14 @@ Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui e
 
 <div align="center">
   <img alt="Ingrid-gif" src="https://i.picasion.com/pic92/e3998d24c72c6d04ab1d56191de7a29e.gif">
+  
+</div>
+
+</br>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/IngridAltafini/IngridAltafini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
