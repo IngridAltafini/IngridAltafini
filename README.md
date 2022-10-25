@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h3>❤ Estudante de desenvolvimento FullStack...</h3>
+  <h3>💖 Estudante de desenvolvimento FullStack...</h3>
 </div>
 
 </br>
@@ -19,7 +19,7 @@
 </br>
 
 <div align="center">
-  <h3>❤ Linguagens</h3>
+  <h3>💖 Linguagens</h3>
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 </br>
 
 <div align="center">
-  <h3>❤ Biografia</h3>
+  <h3>💖 Biografia</h3>
   
   Me chamo Ingrid, tenho 17 anos e entrei para a área de TI este ano (2022).
 
@@ -50,7 +50,7 @@ Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui e
 </br>
 
 <div align="center">
-   <h3>❤ Contato</h3>
+   <h3>💖 Contato</h3>
   
    <a href = "mailto:ingridaltafini225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-isabela-altafini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
