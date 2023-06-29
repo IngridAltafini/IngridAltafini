@@ -1,4 +1,4 @@
-<div align="center">
+eto<div align="center">
   <h1>Olá Mundo! </br> Eu sou Ingrid Isabela Altafini</h1>
 </div> 
 
@@ -40,11 +40,15 @@
 <div align="center">
   <h3>💖 Biografia</h3>
   
-  Me chamo Ingrid, tenho 17 anos e entrei para a área de TI este ano (2022).
+  Me chamo Ingrid, tenho 18 anos e entrei para a área de TI no ano de 2022.
 
 Consegui essa oportunidade por meio do projeto Vem Ser Dev, quando as pessoas envolvidas realizaram apresentações em escolas da minha cidade, dizendo ser um curso sobre TI e Inglês totalmente gratuito, que existiam muitas vagas para essa profissão, que era uma oportunidade única e que não podíamos deixar passar. Eu e mais pessoas da minha escola se inscreveram e em cerca de uma semana soube que estaria participando do projeto.
 
-Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui em diante, realizando meus objetivos e aprendendo muito mais!
+Desde então me esforçei bastante nas aulas, consegui realizar e aprender tudo que vi no curso, ganhando um prêmio pelo melhor projeto de conclusão do mesmo.
+
+Espero me sair bem daqui em diante na minha carreira profissional, colocando em prática tudo que aprendi e que estou aprendendo com o decorrer dos dias.
+
+Bora codar!
 </div>
 
 </br>
