@@ -1,4 +1,4 @@
-eto<div align="center">
+<div align="center">
   <h1>Olá Mundo! </br> Eu sou Ingrid Isabela Altafini</h1>
 </div> 
 
