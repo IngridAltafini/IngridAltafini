@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h3>💖 Estudante de desenvolvimento FullStack...</h3>
+  <h3>💖 Desenvolvedora FullStack...</h3>
 </div>
 
 </br>
