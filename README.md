@@ -39,16 +39,13 @@
 
 <div align="center">
   <h3>💖 Biografia</h3>
-  
-  Me chamo Ingrid, tenho 19 anos e entrei para a área de TI no ano de 2022.
+  Ingrid, 19 anos, Desenvolvedora FullStack
 
-Consegui essa oportunidade por meio do projeto Vem Ser Dev, quando as pessoas envolvidas realizaram apresentações em escolas da minha cidade, dizendo ser um curso sobre TI e Inglês totalmente gratuito, que existiam muitas vagas para essa profissão, que era uma oportunidade única e que não podíamos deixar passar. Eu e mais pessoas da minha escola se inscreveram e em cerca de uma semana soube que estaria participando do projeto.
+  Entrei no universo de TI em 2022, quando tive a oportunidade de participar da primeira turma do projeto Vem Ser Dev, onde fui introduzida ao mundo da programação e ao desenvolvimento FullStack. Esse foi o ponto de partida para minha jornada na tecnologia, e desde então, me dedico a aprimorar minhas habilidades e expandir meu conhecimento.
 
-Desde então me esforçei bastante nas aulas, consegui realizar e aprender tudo que vi no curso, ganhando um prêmio pelo melhor projeto de conclusão do mesmo.
+  Atualmente, sou desenvolvedora FullStack, com experiência em tecnologias como NodeJS, ReactJS, JavaScript e TypeScript. Estou sempre em busca de novos desafios, aprendendo e me atualizando constantemente para acompanhar as inovações e as melhores práticas do mercado de desenvolvimento.
 
-Espero me sair bem daqui em diante na minha carreira profissional, colocando em prática tudo que aprendi e que estou aprendendo com o decorrer dos dias.
-
-Bora codar!
+  Bora codar! 🚀
 </div>
 
 </br>
