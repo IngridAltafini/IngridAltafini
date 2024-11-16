@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h3>💖 Desenvolvedora FullStack...</h3>
+  <h3>Desenvolvedora FullStack...</h3>
 </div>
 
 </br>
@@ -19,7 +19,7 @@
 </br>
 
 <div align="center">
-  <h3>💖 Linguagens</h3>
+  <h3>Linguagens</h3>
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 </br>
 
 <div align="center">
-  <h3>💖 Biografia</h3>
+  <h3>Biografia</h3>
   Ingrid, 19 anos, Desenvolvedora FullStack
 
   Entrei no universo de TI em 2022, quando tive a oportunidade de participar da primeira turma do projeto Vem Ser Dev, onde fui introduzida ao mundo da programação e ao desenvolvimento FullStack. Esse foi o ponto de partida para minha jornada na tecnologia, e desde então, me dedico a aprimorar minhas habilidades e expandir meu conhecimento.
@@ -51,7 +51,7 @@
 </br>
 
 <div align="center">
-   <h3>💖 Contato</h3>
+   <h3>Contato</h3>
   
    <a href = "mailto:ingridaltafini225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-isabela-altafini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -59,17 +59,3 @@
 </div>
 
 </br>
-
-<div align="center">
-  <img alt="Ingrid-gif" src="https://i.picasion.com/pic92/e3998d24c72c6d04ab1d56191de7a29e.gif">
-  
-</div>
-
-</br>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/IngridAltafini/IngridAltafini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
