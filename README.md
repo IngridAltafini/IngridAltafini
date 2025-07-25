@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Meu nome é Ingrid, tenho 19 anos e sou de São Paulo. Iniciei minha jornada em TI em 2022, participando da primeira turma do projeto Vem Ser Dev, onde fui introduzida ao desenvolvimento FullStack. Desde então, me dedico a aprimorar habilidades e ampliar conhecimentos. Atualmente, trabalho como desenvolvedora FullStack, com experiência em NodeJS, ReactJS, JavaScript e TypeScript, sempre buscando novos desafios e me atualizando para acompanhar as inovações do mercado.
+Meu nome é Ingrid, tenho 20 anos e sou de São Paulo. Iniciei minha jornada em TI em 2022, participando da primeira turma do projeto Vem Ser Dev, onde fui introduzida ao desenvolvimento FullStack. Desde então, me dedico a aprimorar habilidades e ampliar conhecimentos. Atualmente, trabalho como desenvolvedora FullStack, com experiência em NodeJS, ReactJS, JavaScript e TypeScript, sempre buscando novos desafios e me atualizando para acompanhar as inovações do mercado.
 
 <p align="left">
   <a href="mailto:ingridaltafini225@gmail.com">
