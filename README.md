@@ -160,5 +160,5 @@ Meu nome é Ingrid, tenho 20 anos e sou de São Paulo. Iniciei minha jornada em 
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IngridAltafini/IngridAltafini/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IngridAltafini/IngridAltafini/output/github-contribution-grid-snake-dark.svg">
-  <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IngridAltafini/IngridAltafini/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 </picture>
